@@ -1,3 +1,3 @@
 # gradle_name
 
-FILE myname.jar in build/libs/myname.jar
+---------FILE myname.jar in--------- build/libs/myname.jar
